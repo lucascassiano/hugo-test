@@ -1,2 +1,6 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+[outputs]
+home = ['HTML', 'AMP', 'RSS']
+page = ['HTML']
